@@ -2,7 +2,7 @@
   <img src="screenshot/icon.svg" alt="BoxPlayer">
 </p>
 <p align="center">
-    <br> English | <a href="./README.md">中文</a>
+    <br> English | <a href="./README.md">中文</a> | <a href="./README.ja.md">日本語</a>
 </p>
 <p align="center">
     <em>BoxPlayer - unified cloud drive management, smart media library, media servers, and high-speed downloads.</em>

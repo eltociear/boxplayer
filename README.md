@@ -5,7 +5,7 @@
 <p align="center">跨手机、平板、电视与电脑的全平台播放器：把网盘、媒体服务器、音乐、阅读与 AI 放进同一个入口。</p>
 
 <p align="center">
-  中文 · <a href="./README.en.md">English</a> ·
+  中文 · <a href="./README.en.md">English</a> · <a href="./README.ja.md">日本語</a> ·
   <a href="https://xbyvideohub.com/">官网及全平台下载</a> ·
   <a href="https://github.com/gaozhangmin/boxplayer/releases">桌面版 Releases</a> ·
   <a href="./clouddrive-cli/README.md">CLI / MCP</a>
